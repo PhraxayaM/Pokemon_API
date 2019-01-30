@@ -1,0 +1,23 @@
+{
+
+    "trainers": {
+        "tori": [
+            "shinx",
+            "charmander",
+            "maractus",
+            "glaceon"
+        ],
+        "anna": [
+            "scyther",
+            "celebi",
+            "snorlax",
+            "ditto"
+        ],
+        "duncan": [
+            "psyduck",
+            "crustle",
+            "deoxis",
+            "oddish"
+        ]
+    }
+}
